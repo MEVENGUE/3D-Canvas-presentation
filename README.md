@@ -98,7 +98,7 @@
 ### Architecture
 
 <p align="center">
-  <img src="images/schema-04-folder-structure.png" alt="Structure des dossiers" width="600" />
+  <img src="images/Aborescence%20simplifiée.jpg" alt="Structure des dossiers" width="600" />
 </p>
 
 ```
