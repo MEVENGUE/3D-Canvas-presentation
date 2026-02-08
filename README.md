@@ -161,7 +161,7 @@ bucket/
 **CORS** : Configurez l'origine `https://votre-app.vercel.app` dans les paramètres R2.
 
 <p align="center">
-  <img src="images/schema-05-model-categories.png" alt="Catégories des modèles 3D" width="500" />
+  <img src="images/catégories%20de%20modèles.jpg" alt="Catégories des modèles 3D" width="500" />
 </p>
 
 ### Installation
